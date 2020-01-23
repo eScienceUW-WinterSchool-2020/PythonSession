@@ -1,2 +1,0 @@
-# PythonSession
-Python Session
