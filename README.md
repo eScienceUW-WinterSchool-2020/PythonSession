@@ -23,7 +23,7 @@ We will cover a basic introduction to Python in two parts:
 
 * Basic Data Structures:
   - Lists
-  = Tuples
+  - Tuples
   - Dictionaries
 * Data Frames
 
